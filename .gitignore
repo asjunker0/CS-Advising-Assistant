@@ -1,0 +1,28 @@
+# Ignore Visual Studio files
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.db
+*.ipch
+*.json
+
+# Ignore compiled binary files
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.tlog
+*.log
+*.idb
+*.lastbuildstate
+*.recipe
+*.cache
+*.manifest
+
+# Ignore debug and release folders
+x64/
+Debug/
+Release/
